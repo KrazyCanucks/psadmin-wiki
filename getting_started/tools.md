@@ -28,6 +28,8 @@ This page is a collection of different tools that I use to make a PS Admin's job
 
 *   [Programmer's File Editor][8] - Free PFE has almost no modern features, but it does one thing well: it opens very large text files without any issues. Do you have 1GB trace file that needs to be searched? Use PFE.
 
+*   [Ultra Edit][18] - $120-USD  one of the grandfathers of editors.  It is continuously updated still.  It is a great editor and has sytnax highlighting for many formats, including PeopleCode and SQRs.  It can FTP directly to servers to edit files.  It's greatest feature is the column mode which is unmatched.  It allows for creating 1000s of SQLs updates from rows of data seemlessly.  It also comes bundled with Ultra Compare, itself a great comparision tool with 3 way file compares, 3 way directory compares as examples.
+
 *   [SQR Express][9] - $149 SQR Express is a great editor for SQR programs. The ability to run the program within the editor is wonderful and it has useful tools for writing SQR programs.
 
 *   [TraceMagic][10] - Free TraceMagic simplifies much of the information in `.tracesql` files. TraceMagic will group SQL statements, show you all the tables in the FROM clause, tables that are being Updated or Inserted. It is much easier to find the errors using TraceMagic. You will need an Oracle Support account to download; search for Doc ID `1470578.1`.
@@ -67,3 +69,5 @@ This page is a collection of different tools that I use to make a PS Admin's job
  [15]: https://github.com/parasew/instiki
  [16]: https://slack.com
  [17]: https://code.visualstudio.com/
+ [18]: https://www.ultraedit.com/
+ 
